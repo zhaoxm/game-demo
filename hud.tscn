@@ -37,12 +37,15 @@ vertical_alignment = 1
 autowrap_mode = 2
 
 [node name="StartButton" type="Button" parent="." unique_id=873320712]
-anchors_preset = 12
+anchors_preset = 7
+anchor_left = 0.5
 anchor_top = 1.0
-anchor_right = 1.0
+anchor_right = 0.5
 anchor_bottom = 1.0
-offset_top = -140.0
-offset_bottom = -54.0
+offset_left = -88.5
+offset_top = -198.0
+offset_right = 88.5
+offset_bottom = -98.0
 grow_horizontal = 2
 grow_vertical = 0
 theme_override_fonts/font = ExtResource("1_37p78")
